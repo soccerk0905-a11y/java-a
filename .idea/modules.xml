@@ -5,7 +5,19 @@
       <module fileurl="file://$PROJECT_DIR$/java-a.iml" filepath="$PROJECT_DIR$/java-a.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample 03/sample 03.iml" filepath="$PROJECT_DIR$/sample 03/sample 03.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample03/sample03.iml" filepath="$PROJECT_DIR$/sample03/sample03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample1/sample1.iml" filepath="$PROJECT_DIR$/sample1/sample1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample2/sample2.iml" filepath="$PROJECT_DIR$/sample2/sample2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weak04/weak04.iml" filepath="$PROJECT_DIR$/weak04/weak04.iml" />
       <module fileurl="file://$PROJECT_DIR$/weak3/weak3.iml" filepath="$PROJECT_DIR$/weak3/weak3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weak04/weak4sample10/weak4sample10.iml" filepath="$PROJECT_DIR$/weak04/weak4sample10/weak4sample10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weak04/weak4sample11/weak4sample11.iml" filepath="$PROJECT_DIR$/weak04/weak4sample11/weak4sample11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weak04/weak4sample3/weak4sample3.iml" filepath="$PROJECT_DIR$/weak04/weak4sample3/weak4sample3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weak04/weak4sample4/weak4sample4.iml" filepath="$PROJECT_DIR$/weak04/weak4sample4/weak4sample4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weak04/weak4sample5/weak4sample5.iml" filepath="$PROJECT_DIR$/weak04/weak4sample5/weak4sample5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weak04/weak4sample6/weak4sample6.iml" filepath="$PROJECT_DIR$/weak04/weak4sample6/weak4sample6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weak04/weak4sample7/weak4sample7.iml" filepath="$PROJECT_DIR$/weak04/weak4sample7/weak4sample7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weak04/weak4sample8/weak4sample8.iml" filepath="$PROJECT_DIR$/weak04/weak4sample8/weak4sample8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weak04/weak4sample9/weak4sample9.iml" filepath="$PROJECT_DIR$/weak04/weak4sample9/weak4sample9.iml" />
     </modules>
   </component>
 </project>
